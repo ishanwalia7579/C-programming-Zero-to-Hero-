@@ -1,2 +1,3 @@
-<p align="center"><h1>C programming </h1></p>
-<p>Zero To Hero</p>
+<h1>C programming-🛠️ &nbsp;<p>Zero To Hero -🚀 </p></h1>
+<img src="c programming.png">
+
