@@ -49,5 +49,5 @@ The program is written in:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/final-prices-c.git
+git clone https://github.com/ishanwalia7579/final-prices-c.git
 cd final-prices-c
