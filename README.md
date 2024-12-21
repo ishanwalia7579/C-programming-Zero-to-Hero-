@@ -179,3 +179,38 @@ int main() {
 ```
 
 </ol>
+<br>
+<h3>9.Instruction :-</h3><p>These are statements in a program</p>
+<h5> *Types of Instruction :-</h5>
+<ul>
+  <li>Declaration Instruction</li>
+  <li>Arithmetic Instruction</li>
+  <li>Control Instruction</li>
+</ul>
+<br>
+<h4> 1.Declaration Instruction</h4><P>Declare var before using it</P>
+
+```c
+int a=22;
+int b=a;
+int c=b+1;
+int d=1,e;
+```
+</h4><br>
+<h4>2.Arithmetic Instructions :-</h4>
+
+```c
+a=b+c
+a=b*c
+a=b/c
+a=b%c
+```
+<br>
+<h4>3.Control Instructions -:</h4><p>Used to determine flow of program</p>
+<ul>
+  <li>Sequence control</li>
+  <li>Decision control</li>
+  <li>Loop control</li>
+  <li>Case control</li>
+</ul>
+<br>
