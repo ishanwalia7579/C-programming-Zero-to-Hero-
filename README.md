@@ -148,7 +148,7 @@ int main() {
 <h3>7. Compilation :-</h3>
 A computer program that translates C code into machine code
 <br>
-<h3>9.Instruction :-</h3><p>These are statements in a program</p>
+<h3>8.Instruction :-</h3><p>These are statements in a program</p>
 <h5> *Types of Instruction :-</h5>
 <ul>
   <li>Declaration Instruction</li>
