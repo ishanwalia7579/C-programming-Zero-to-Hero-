@@ -5,7 +5,8 @@
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Projects](#projects)
-![Banner](https://your-image-link.com/banner.png)
+
+(img src="c.png")
 
 ## Table of Contents
 - [Introduction](#introduction)
