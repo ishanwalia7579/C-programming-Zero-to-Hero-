@@ -25,7 +25,7 @@ int main() {
 }
 ```
 <br>
-<li><a href="">3.Write a program to check if a student passed on failed </li>
+<li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/Write%20a%20program%20to%20check%20if%20a%20student%20passed%20on%20failed.c">3.Write a program to check if a student passed on failed </li>
 
 ```c
    #include <stdio.h>
