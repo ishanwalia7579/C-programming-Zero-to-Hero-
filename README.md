@@ -46,18 +46,18 @@
   <li>Char - 'a' , 'B       → → → → ("%c")</li>
 </ol>
 
-<br>
+<br><hr>
 <h2>2. Keywords :-</h2>
 <p><li>Reserved words that have special meaning to the compiler <strong>32</strong> keywords in C</li></p>
-<br>
+<br><hr>
 <h2>3.Constants</h2>
 <p><li>Values that don't change (fixed)</li></p>
 <h4> * Types for constants:-</h4>
 <li>Integer constants</li>
 <li>Real constants</li>
 <li>Character constants</li>
-<br>
-<h2>4. Comments :-</h2>
+<br><hr>
+<h3>4. Comments :-</h3>
 <p>Lines that are not part of program</p>
 <h4>* Types of comments :-</h4>
 <ul>
@@ -99,8 +99,8 @@ int main() {
 }
 ```
 </h3><br>
-<br>
-<h2>5. Output </h2>
+<br><hr>
+<h3>5. Output </h3>
 <p>Cases</p>
 <ol>
   <li>Integer :-</li>
@@ -134,7 +134,7 @@ int main() {
 ```
 
 </ol>
-<br>
+<br><hr>
 <h3>6. Input :-</h3>
 
 ```c
@@ -144,10 +144,10 @@ int main() {
     return 0;
 }
 ```
-<br>
+<br><hr>
 <h3>7. Compilation :-</h3>
 A computer program that translates C code into machine code
-<br>
+<br><hr>
 <h3>8.Instruction :-</h3><p>These are statements in a program</p>
 <h5> *Types of Instruction :-</h5>
 <ul>
@@ -173,12 +173,93 @@ a=b*c
 a=b/c
 a=b%c
 ```
-<br>
-<h4>3.Control Instructions -:</h4><p>Used to determine flow of program</p>
+<br><hr>
+<h3>3.Control Instructions -:</h3><p>Used to determine flow of program</p>
 <ul>
   <li>Sequence control</li>
   <li>Decision control</li>
   <li>Loop control</li>
   <li>Case control</li>
 </ul>
+<br><hr>
+<h3>9.Conditional Statements :-</h3><p>Conditional Statements allow you to make a decision based on the 'if-else' or 'switch'</p>
+<h5>*Type of Conditional statements :-</h5>
+<ul>
+  <li>If</li>
+  <li>If-else</li>
+  <li>If-else-if</li>
+  <li>Nested-if</li>
+  <li>Switch</li>
+</ul>
 <br>
+<br>
+<h4>1. How to used for 'if-else'</h4>
+
+```c
+      #include <stdio.h>
+      int main(){
+      int age;
+      printf("Enter a age :");
+      scanf("%d",&age);
+      
+      if(age >18){
+      printf("adult \n");
+      printf("They are vote \n");
+      printf("They are drive \n");
+      }
+      else{
+      printf("Not adult \n");
+      }
+      printf("Thank You");
+      return 0;
+```
+<br>
+<h4>2. How to used for 'switch' </h4>
+
+```c
+      #include <stdio.h>
+      int main(){
+      int day;
+      printf("Enter a day(1-7) :");
+      scanf("%d",&day);
+      
+      switch (day){
+      case 1: printf("Monday \n");
+             break;
+      case 2: printf("Tuesday \n");
+             break;
+      case 3: printf("Wednesday \n");
+             break;
+      case 4: printf("Thursday \n");
+             break;
+      case 5: printf("Friday \n");
+             break;
+      case 6: printf("Saturday \n");
+             break;
+      case 7: printf("Sunday \n");
+             break;
+      default :printf("Not a valid days");
+      return 0;
+      }
+      }
+```
+<br><hr>
+<h3> Loop Control Instruction :-</h3>
+<p>To repeat some parts of the program</p>
+<h5>* Type of Loop Control Instruction :-</h5>
+<ol>
+  <li>For Loop</li>
+  <li>While</li>
+  <li>Do While</li>
+</ol>
+<h4> 1.for Loop</h4>
+
+```c
+      #include <stdio.h>
+      int main(){
+          for( int i=1; i<=10; i=i+1){
+          printf("Hello World \n");
+      }
+      return 0;
+      }
+```
