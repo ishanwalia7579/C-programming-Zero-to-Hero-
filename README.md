@@ -3,7 +3,7 @@
 
 ## Quick Links
 - [Getting Started](#getting-started)
-- [Examples](#examples)
+- [Practices question]()
 - [Projects](#projects)
 <br>
 <img src="c.png">
