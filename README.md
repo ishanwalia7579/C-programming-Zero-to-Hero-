@@ -5,8 +5,8 @@
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Projects](#projects)
-
-(img src="c.png")
+<br>
+<img src="c.png">
 
 ## Table of Contents
 - [Introduction](#introduction)
