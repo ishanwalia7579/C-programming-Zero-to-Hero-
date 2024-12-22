@@ -1,5 +1,17 @@
-<h1>C programming-🛠️ &nbsp;<p>Zero To Hero -🚀 </p></h1>
-<BR>
+# C Programming: Zero to Hero
+**Learn C programming from scratch with examples and projects.**
+
+## Quick Links
+- [Getting Started](#getting-started)
+- [Examples](#examples)
+- [Projects](#projects)
+![Banner](https://your-image-link.com/banner.png)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Basic Programs](#basic-programs)
+- [Advanced Topics](#advanced-topics)
+<br>
 <h2>* What is c programming define ?</h2> <br>
 <ul>
   <li>C is general purpose programming language reated by <strong>Dennie Ritchie</strong> at the Bell Laboratories in 1972</li>
