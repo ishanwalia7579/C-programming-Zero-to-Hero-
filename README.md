@@ -55,9 +55,10 @@
 <br>
 <h2>* Different types of variables:-</h2>
 <ol>
-  <li>Integer -123 , -123   → → → → → ("%d")</li>
-  <li>Float -12.22 , 12.44  → → → → ("%f")</li>
-  <li>Char - 'a' , 'B       → → → → ("%c")</li>
+  <li>Local variable</li>
+  <li>Global variable</li>
+  <li>Static variable</li>
+  <li>External variable</li>
 </ol>
 
 <br><hr>
