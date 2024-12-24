@@ -32,7 +32,17 @@
   reture 0;
   }
 ```
-</h2><br>
+</h2>
+<h3>* Introduction to Indentifiers in C</h3>
+<p>Identifiers are the names used to identify variable,functions,arrays,or other user-defined elements in a C program.</p>
+<h4>* Rules for Identifiers :-</h4>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<br>
 <h2>* The basic concepts of C programming language</h2>
 <ul>
   <li>Variables</li>
