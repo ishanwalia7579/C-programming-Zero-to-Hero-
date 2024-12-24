@@ -76,12 +76,35 @@ datatypen variable_name;
 <br>
 <h2>* Different types of variables:-</h2>
 <ol>
-  <li>Local variable</li>
-  <li>Global variable</li>
-  <li>Static variable</li>
-  <li>External variable</li>
+  <li>Local variables</li>
+  <li>Global variables</li>
+  <li>Static variables</li>
+  <li>External variables</li>
 </ol>
+<h4> 1.Local variables </h4>
+<p>Declared inside functions .</p>
 
+```c
+#include <stdio.h>
+int main(){
+printf("Local variable");
+return 0; }
+```
+<h4>2. Global variables</h4>
+<p>Declared outside all function</p>
+
+```
+```
+<h4>3. Static  variables</h4>
+<p>Retain their value between function calls.</p>
+
+```
+```
+<h4>4. External variables</h4>
+<p>Declared using external keyword .</p>
+
+```
+```
 <br><hr>
 <h2>2. Keywords :-</h2>
 <p><li>Reserved words that have special meaning to the compiler <strong>32</strong> keywords in C</li></p>
