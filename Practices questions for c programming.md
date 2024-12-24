@@ -64,5 +64,25 @@ int main() {
 <li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/How%20to%20create%20a%20global%20variables%20in%20c.c">5. How to create a global variables in c</li>
 
 ```c
+#include <stdio.h>
 
+// Global variable declaration
+int globalNumber = 10;
+
+void increment() {
+    globalNumber += 5; // Modify the global variable
+    printf("Value after increment: %d\n", globalNumber);
+}
+
+void decrement() {
+    globalNumber -= 3; // Modify the global variable
+    printf("Value after decrement: %d\n", globalNumber);
+}
+
+int main() {
+    printf("Initial value: %d\n", globalNumber);
+    increment(); // Call increment function
+    decrement(); // Call decrement function
+    return 0;
+}
 ```
