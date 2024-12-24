@@ -53,8 +53,19 @@
 </ul>
 <br>
 <h3>1. Variables</h3>
-<p><li>Variable is the name of a memory location which stores some data.</li></p>
-<br>
+<p><li>A Varaiable is a container to store data values it is defined by a name,types memory location.</li></p>
+<br> <h4>Declaration syntax :-</h4>
+
+```c
+datatypen variable_name;
+```
+<p>Example :-</p>
+
+```c
+1.int num;
+2.float pi;
+3. char grade;
+```
 <h2>* Variable Rules:-</h2>
 <ol>
   <li>Variable are case sensitive.</li>
