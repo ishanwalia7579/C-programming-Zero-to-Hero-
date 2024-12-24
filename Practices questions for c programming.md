@@ -61,3 +61,8 @@ int main() {
 }
 
 ```
+<li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/How%20to%20create%20a%20global%20variables%20in%20c.c">5. How to create a global variables in c</li>
+
+```c
+
+```
