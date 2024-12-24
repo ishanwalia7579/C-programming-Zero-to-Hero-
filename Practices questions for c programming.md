@@ -45,7 +45,7 @@ int main() {
        return 0;
    }
 ```
-<li><a href="">4. How to create a local variables in c </li>
+<li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/How%20to%20create%20a%20local%20variables%20%20in%20c%20.c">4. How to create a local variables in c </li>
 
 ```c
 #include <stdio.h>
