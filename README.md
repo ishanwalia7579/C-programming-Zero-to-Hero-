@@ -81,7 +81,7 @@ datatypen variable_name;
   <li>Static variables</li>
   <li>External variables</li>
 </ol>
-<h4> 1.Local variables </h4>
+<h4> 1. Local variables </h4>
 <p>Declared inside functions .</p>
 
 ```c
