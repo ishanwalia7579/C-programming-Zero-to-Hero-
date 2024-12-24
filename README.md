@@ -128,7 +128,22 @@ int main() {
 <h4>3. Static  variables</h4>
 <p>Retain their value between function calls.</p>
 
-```
+```c
+#include <stdio.h>
+
+void counter() {
+    static int count = 0; // Static variable
+    count++;
+    printf("Count value: %d\n", count);
+}
+
+int main() {
+    counter(); // First call
+    counter(); // Second call
+    counter(); // Third call
+    return 0;
+}
+
 ```
 <h4>4. External variables</h4>
 <p>Declared using external keyword .</p>
