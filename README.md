@@ -37,10 +37,10 @@
 <p>Identifiers are the names used to identify variable,functions,arrays,or other user-defined elements in a C program.</p>
 <h4>* Rules for Identifiers :-</h4>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Must begin with a letter (A-Z) or (a-z) or  an underscore(_) .</li>
+  <li>Cannot use C keywords.</li>
+  <li>Can cantain letter,digit (0-9),and underscores (_(.</li>
+  <li>Case-sensitive.</li>
 </ol>
 <br>
 <h2>* The basic concepts of C programming language</h2>
