@@ -82,7 +82,7 @@ datatypen variable_name;
   <li>External variables</li>
 </ol>
 <h4> 1. Local variables </h4>
-<p>Declared inside functions .</p>
+<p>Local variables are declared inside a function and can only be accessed with in that function.</p>
 
 ```c
 #include <stdio.h>
@@ -99,7 +99,7 @@ int main() {
 
 ```
 <h4>2. Global variables</h4>
-<p>Declared outside all function</p>
+<p>Global variables are declared outside all functions and are accessible by all functions in the program .</p>
 
 ```c
 #include <stdio.h>
@@ -126,7 +126,7 @@ int main() {
 
 ```
 <h4>3. Static  variables</h4>
-<p>Retain their value between function calls.</p>
+<p>Static variables retain their value between function calls and are initialized only ..</p>
 
 ```c
 #include <stdio.h>
@@ -146,7 +146,7 @@ int main() {
 
 ```
 <h4>4. External variables</h4>
-<p>Declared using external keyword .</p>
+<p>External variables are declared using the extern keyword they allow sharing variables across multiple files ..</p>
 
 ```
 ```
