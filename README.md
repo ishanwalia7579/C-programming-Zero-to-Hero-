@@ -172,7 +172,14 @@ int main() {
 <p>Whole number eg:-10,52</p>
 
 ```
-
+#include <stdio.h>
+int main(){
+    int a;
+    printf("Enter a number is integer :");
+    scanf("%d",&a);
+    printf("%d",a);
+    return 0;
+}
 ```
 
 <br><hr>
