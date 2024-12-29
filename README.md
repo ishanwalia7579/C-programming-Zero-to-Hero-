@@ -184,7 +184,7 @@ int main(){
 <h4>2. Floating -point Constants :-</h4>
 <p>Decimal number eg:- 3.14</p>
 
-```
+```c
 #include <stdio.h>
 int main(){
     float a;
@@ -197,7 +197,7 @@ int main(){
 <h4>3. Character Constants :-</h4>
 <p>Single characters in single quotes  eg:- 'A'</p>
 
-```
+```c
 #include <stdio.h>
 int main(){
     char a;
@@ -206,6 +206,12 @@ int main(){
     printf("%c",a);
     return 0;
 }
+```
+<h4>4. String Constant :-</h4>
+<p>Sequence of character in double quates  eg:- "Hello" </p>
+
+```
+
 ```
 
 <br><hr>
