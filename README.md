@@ -150,16 +150,23 @@ int main() {
 
 ```
 ```
+<h4>4. Automatic variable</h4>
+<p> ..</p>
+
+```
+```
 <br><hr>
 <h2>2. Keywords :-</h2>
 <p><li>Reserved words that have special meaning to the compiler <strong>32</strong> keywords in C</li></p>
 <br><hr>
-<h2>3.Constants</h2>
+
+<h2>3.Constants in C</h2>
 <p><li>Values that don't change (fixed)</li></p>
 <h4> * Types for constants:-</h4>
 <li>Integer constants</li>
 <li>Real constants</li>
 <li>Character constants</li>
+
 <br><hr>
 <h3>4. Comments :-</h3>
 <p>Lines that are not part of program</p>
