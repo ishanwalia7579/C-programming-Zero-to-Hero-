@@ -211,6 +211,14 @@ int main(){
 <p>Sequence of character in double quates  eg:- "Hello" </p>
 
 ```
+#include <stdio.h>
+int main() {
+    char a[20];
+    printf("Enter a string number: "); // used for string Constants
+    scanf("%s", a); 
+    printf("You entered: %s\n", a); 
+    return 0;
+}
 
 ```
 
