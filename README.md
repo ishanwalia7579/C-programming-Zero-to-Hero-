@@ -175,11 +175,30 @@ int main() {
 #include <stdio.h>
 int main(){
     int a;
-    printf("Enter a number is integer :");
+    printf("Enter a number is integer :"); // user for integer constant
     scanf("%d",&a);
     printf("%d",a);
     return 0;
 }
+```
+<h4>2. Floating -point Constants :-</h4>
+<p>Decimal number eg:- 3.14</p>
+
+```
+#include <stdio.h>
+int main(){
+    float a;
+    printf("Enter a float point number :"); // user for Floating-point constant
+    scanf("%f",&a);
+    printf("%f",a);
+    return 0;
+}
+```
+<h4>3. Character Constants :-</h4>
+<p>Single characters in single quotes  eg:- 'A'</p>
+
+```
+
 ```
 
 <br><hr>
