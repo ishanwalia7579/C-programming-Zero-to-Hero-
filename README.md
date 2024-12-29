@@ -198,7 +198,14 @@ int main(){
 <p>Single characters in single quotes  eg:- 'A'</p>
 
 ```
-
+#include <stdio.h>
+int main(){
+    char a;
+    printf("Enter a Character number :"); // user for Character constant
+    scanf("%c",&a);
+    printf("%c",a);
+    return 0;
+}
 ```
 
 <br><hr>
