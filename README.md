@@ -8,7 +8,7 @@
 - [MCQS Most Important](# ).
 <br>
 <img src="c.png">
-
+.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Basic Programs](#basic-programs)
