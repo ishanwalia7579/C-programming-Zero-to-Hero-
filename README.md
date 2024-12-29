@@ -161,11 +161,19 @@ int main() {
 <br><hr>
 
 <h2>3.Constants in C</h2>
-<p><li>Values that don't change (fixed)</li></p>
+<p><li>Constants are fixed values that do not change during program execution ..</li></p>
 <h4> * Types for constants:-</h4>
-<li>Integer constants</li>
-<li>Real constants</li>
-<li>Character constants</li>
+<li>Integer Conatants</li>
+<li>Floating-point Constants </li>
+<li>Character Constants </li>
+<li>String Constants</li>
+<br>
+<h4>1. Integer Conatants :-</h4>
+<p>Whole number eg:-10,52</p>
+
+```
+
+```
 
 <br><hr>
 <h3>4. Comments :-</h3>
