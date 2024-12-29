@@ -171,7 +171,7 @@ int main() {
 <h4>1. Integer Conatants :-</h4>
 <p>Whole number eg:-10,52</p>
 
-```
+```c
 #include <stdio.h>
 int main(){
     int a;
