@@ -109,4 +109,21 @@ int main() {
     return 0;
 }
 ```
-<li><a href="">7. Fibonacci Series Program in C</a></li>
+<li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/Fibonacci%20Series%20Program%20in%20C%20.c">7. Fibonacci Series Program in C</a></li>
+
+```c
+#include <stdio.h>
+int main(){
+    int n,t1=0,t2=1,nextTerm;
+    printf("Enter the number of terms:");
+    scanf("%d",&n);
+    printf("Fibonacci series :");
+    for(int i=1; i<=n; ++i){
+        printf("%d",t1);
+        nextTerm=t1+t2;
+        t1=t2;
+        t2=nextTerm;
+    }
+    return 0;
+}
+```
