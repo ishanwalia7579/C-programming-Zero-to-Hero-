@@ -87,3 +87,25 @@ int main() {
 }
 ```
 <li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/How%20to%20Create%20a%20Program%20to%20Calculate%20the%20Sum%20of%20First%20N%20Natural%20Numbers%20in%20%20C%20.c">6. How to Create a Program to Calculate the Sum of First N Natural Numbers in C</a></li>
+
+```c
+#include <stdio.h>
+
+int main() {
+    int n, sum = 0;
+
+    // Prompt user to enter the value of n
+    printf("Enter a positive integer: ");
+    scanf("%d", &n);
+
+    // Calculate sum of first n numbers
+    for (int i = 1; i <= n; i++) {
+        sum += i;
+    }
+
+    // Display the result
+    printf("The sum of the first %d natural numbers is: %d\n", n, sum);
+
+    return 0;
+}
+```
