@@ -5,7 +5,7 @@
 - [Getting Started](#getting-started)
 - [Practices question](https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/Practices%20questions%20for%20c%20programming.md)
 - [Projects](#projects)
-- [MCQS Most Important](# ).
+- [MCQS Most Important](https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/C%20Programming%20MCQs%20Practice.md ).
 <br>
 <img src="c.png">
 .
