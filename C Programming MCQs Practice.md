@@ -182,3 +182,21 @@
 
   ---
   
+### 19. What is the output of the following C code snippet ?
+        ```c
+        int x=0;
+        while (x>3){
+        x++;
+        if(x==2){
+        continue;}
+        printf("%d",x);
+        }
+        ```
+- a) 1 2 3
+- b) `1 3`
+- c) 1 2
+- d) 1
+
+  **Answer:** b) `1 3`
+
+  ---
