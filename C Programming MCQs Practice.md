@@ -161,3 +161,13 @@
   **Answer:** b) ` Terminate the loop or switch statement`
 
   ---
+
+### 17. What of the following statements is used for uncoditional branching  ?
+- a) if
+- b) `goto`
+- c) switch
+- d) break
+
+  **Answer:** b) `goto`
+
+  ---
