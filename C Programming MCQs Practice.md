@@ -200,3 +200,13 @@
   **Answer:** b) `1 3`
 
   ---
+
+### 20. What is the purpose of the default key word in a switch statement ?
+- a) `It provides a default case if no other case matches `
+- b) It terminates the switch statement
+- c) It increments the case value
+- d) None of the above
+
+  **Answer:** a) `It provides a default case if no other case matches`
+
+  ---
