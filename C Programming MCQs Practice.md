@@ -101,3 +101,53 @@
   **Answer:** b) `11`
 
   ---
+
+  ### 11. which operator is used to compare two values  in C ?
+- a) =
+- b) `==`
+- c) !=
+- d) <>
+
+  **Answer:** b) `==`
+
+  ---
+
+### 12. What operator is NoT a bitwise operator ?
+- a) &
+- b) |
+- c) ~
+- d) `&&`
+
+  **Answer:** d) `&&`
+
+  ---
+
+  ### 13. What of the following statements is used for conditional execution in C ?
+- a) `if`
+- b) for
+- c) goto
+- d) continue
+
+  **Answer:** a) `if`
+
+  ---
+
+   ### 14. what will happen if the condition in a while loop is false  ?
+- a) The loop executes once
+- b) The loop executes infinitely
+- c) `The loop is skipped`
+- d) None of the above
+
+  **Answer:** c) `The loop is skipped`
+
+  ---
+
+   ### 15. What loop guarantees execution of the loop body at least once ?
+- a) while loop
+- b) `do-while loop`
+- c) for-loop
+- d) None of the above
+
+  **Answer:** a) `do-while loop`
+
+  ---
