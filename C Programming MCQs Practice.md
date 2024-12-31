@@ -151,3 +151,13 @@
   **Answer:** a) `do-while loop`
 
   ---
+
+ ### 16. What is the purpose of the break statements ?
+- a) Skip the current iteration
+- b) `Terminate the loop or switch statement`
+- c) Transfer control to another part of the program
+- d) None of the above
+
+  **Answer:** b) ` Terminate the loop or switch statement`
+
+  ---
