@@ -71,3 +71,33 @@
   **Answer:** a) `A variable that cannot change during execution`
 
   ---
+
+ ### 8. Which of the following is used to read formatted input in C ?
+- a) printf
+- b) `scanf`
+- c) puts
+- d) gets
+
+  **Answer:** b) `scanf`
+
+  ---
+
+ ### 9. What does %d represent in printf and scanf ?
+- a) float
+- b) Character
+- c) `Integer`
+- d) String
+
+  **Answer:** c) `Integer`
+
+  ---
+
+  ### 10. What is the result of the expression 5+2*3 in C ?
+- a) 21
+- b) `11`
+- c) 17
+- d) 15
+
+  **Answer:** b) `11`
+
+  ---
