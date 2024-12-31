@@ -8,7 +8,7 @@
 - c) Designing hardware for a system 
 - d) None of the above
 
-**Answer:** c) `Writing instructions for a computer to execute` 
+**Answer:** a) `Writing instructions for a computer to execute` 
 
 ---
 
