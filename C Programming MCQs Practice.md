@@ -171,3 +171,14 @@
   **Answer:** b) `goto`
 
   ---
+
+### 18. What happens when the continue statement is executed in a loop ?
+- a) The loop terminates
+- b) `The next iteration starts`
+- c) The program exits
+- d) None of the above
+
+  **Answer:** b) `The next iteration starts`
+
+  ---
+  
