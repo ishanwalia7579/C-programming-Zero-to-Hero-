@@ -127,3 +127,30 @@ int main(){
     return 0;
 }
 ```
+<li><a href="https://github.com/ishanwalia7579/C-programming-Zero-to-Hero-/blob/main/Simple%20Factorial%20Calculation%20Program%20in%20C%20.c">8. Simple Factorial Calculation Program in C</a></li>
+
+```c
+#include <stdio.h>
+
+int factorial(int n) {
+    int result = 1;
+    for (int i = 1; i <= n; i++) {
+        result *= i;
+    }
+    return result;
+}
+
+int main() {
+    int number;
+    printf("Enter a number: ");
+    scanf("%d", &number);
+
+    if (number < 0) {
+        printf("Factorial is not defined for negative numbers.\n");
+    } else {
+        printf("The factorial of %d is %d.\n", number, factorial(number));
+    }
+    return 0;
+}
+
+```
