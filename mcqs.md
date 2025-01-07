@@ -210,12 +210,62 @@
   **Answer:** a) `It provides a default case if no other case matches`
 
   ---
-### 21. What is the purpose of the default key word in a switch statement ?
-- a) It provides a default case if no other case matches
-- b) It terminates the switch statement
-- c) It increments the case value
-- d) None of the above
+### 21. Which of the following is true about a function in programming  ?
+- a) A function must always return a value
+- b) A function can be called from another function 
+- c) A function can not have parameters
+- d) A function is executed only once during programs execution
 
   **Answer:** a) ``
+
+  ---
+### 22. What keyword is used to define a function is most programming languages ?
+- a) 
+- b)  
+- c) 
+- d) 
+
+  **Answer:** a) ``
+
+  ---
+
+### 23. What is the scope of a variable defined inside a function ?
+- a) `Local`
+- b)  Global
+- c)  External
+- d)  Static
+
+  **Answer:** a) `Local`
+
+  ---
+
+### 24. If a variable is passed by reference , which of the following happens ?
+- a) A copy of the variable is made , and changes do not affect the original valaue
+- b) `The address of the variable is passed , allowing changes to affect the original value`
+- c) The value is permanently deleted from memory
+- d) The variable becomes read-only
+
+  **Answer:** b) `The address of the variable is passed , allowing changes to affect the original value`
+
+  ---
+
+
+### 25. what is the default storage class in C /C++ ?
+- a) Static
+- b) Register
+- c) `Auto`
+- d) Extern
+
+  **Answer:** b) `Auto`
+
+  ---
+
+### 26. Which of the following problems is commonly solved using recursion ?
+- a) Sorting a list
+- b) `Calculating factorial of a number `
+- c) Searching in a database
+- d) Accessing memory directly
+
+  **Answer:** b) `Calculating factorial of a number`
 
   ---
